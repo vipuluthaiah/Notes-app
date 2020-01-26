@@ -1,4 +1,4 @@
-# Flutter Todo App
+# A fully Functional Flutter todo app/
 ![](https://github.com/vipuluthaiah/Notes-app/blob/master/images/4.png)
 ![](https://github.com/vipuluthaiah/Notes-app/blob/master/images/6.png)
 ![](https://github.com/vipuluthaiah/Notes-app/blob/master/images/3.png)
